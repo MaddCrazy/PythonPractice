@@ -1,3 +1,4 @@
+#Find the largest and smallest number from input from a user.
 largest = None
 smallest = None
 while True:
